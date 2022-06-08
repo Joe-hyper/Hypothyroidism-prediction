@@ -31,6 +31,7 @@ Mediheal Hospital wishes to predict if a number of its patients test positive fo
 
 <!-- PROJECT DESCRIPTION -->
 ## Project Description
+![images](https://user-images.githubusercontent.com/98313549/172710087-ea446725-cd81-4e1d-a2ef-5a1283a48d8e.jpeg)
 
 
 
