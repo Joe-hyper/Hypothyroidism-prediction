@@ -34,6 +34,7 @@ Mediheal Hospital wishes to predict if a number of its patients test positive fo
 ![images](https://user-images.githubusercontent.com/98313549/172710087-ea446725-cd81-4e1d-a2ef-5a1283a48d8e.jpeg)
 
 
+<img width="801" alt="llamaindex_rag_overview" src="https://github.com/Joe-hyper/Hypothyroidism-prediction/assets/98313549/ee2455dd-6030-4b91-9dc2-d59d6ebdd860">
 
 <!-- EXPERIMENTAL DESIGN -->
 ### Experimental Design
